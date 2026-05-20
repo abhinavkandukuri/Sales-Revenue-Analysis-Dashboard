@@ -64,8 +64,7 @@ The objective of this project is to create an interactive business dashboard tha
 
 ## 📊 Dashboard Preview
 
-> Add your dashboard screenshot here
-> ![Uploading Dashboard.png…]()
+>[https://github.com/abhinavkandukuri/Sales-Revenue-Analysis-Dashboard/blob/main/Dashboard.png]
 
 
 ---
