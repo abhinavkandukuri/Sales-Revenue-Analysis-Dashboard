@@ -61,11 +61,9 @@ An interactive and visually engaging **Power BI Dashboard** built to analyze sal
 The objective of this project is to create an interactive business dashboard that helps users understand sales performance, identify profitable categories, track customer behavior, and support data-driven decision-making.
 
 ---
-
 ## 📊 Dashboard Preview
 
->https://github.com/abhinavkandukuri/Sales-Revenue-Analysis-Dashboard/blob/main/Dashboard.png
-
+![Sales & Revenue Dashboard](https://github.com/abhinavkandukuri/Sales-Revenue-Analysis-Dashboard/blob/main/Dashboard.png?raw=true)
 
 ---
 
